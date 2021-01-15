@@ -6,7 +6,7 @@ This project have the basic packeges to work.
 
     "dependencies": {
         "axios": "^0.21.1",
-        bluebird": "^3.7.2",
+        "bluebird": "^3.7.2",
         "body-parser": "^1.19.0",
         "cors": "^2.8.5",
         "dotenv": "^8.2.0",
